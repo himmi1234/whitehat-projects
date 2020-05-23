@@ -1,2 +1,2 @@
-# whitehat-projects
-All projects related to whitehat
+# trex game
+google trex game created using p5 
